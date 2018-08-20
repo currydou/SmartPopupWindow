@@ -1,4 +1,4 @@
-package popup.popfisher.com.smartpopupwindow;
+package popup.popfisher.com.smartpopupwindow.smart;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -11,6 +11,8 @@ import android.view.ViewGroup;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import popup.popfisher.com.smartpopupwindow.R;
 
 public class PopupWindowMainActivity extends Activity implements View.OnClickListener {
 

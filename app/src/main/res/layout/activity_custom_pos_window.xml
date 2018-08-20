@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@android:color/white"
-    tools:context="popup.popfisher.com.smartpopupwindow.PopupWindowMainActivity">
+    tools:context="popup.popfisher.com.smartpopupwindow.smart.PopupWindowMainActivity">
 
     <ListView
         android:id="@+id/listview"

@@ -1,4 +1,4 @@
-package popup.popfisher.com.smartpopupwindow;
+package popup.popfisher.com.smartpopupwindow.smart;
 
 import android.content.Context;
 import android.util.TypedValue;

@@ -1,4 +1,4 @@
-package popup.popfisher.com.smartpopupwindow;
+package popup.popfisher.com.smartpopupwindow.smart;
 
 import android.app.Activity;
 import android.content.pm.ActivityInfo;
@@ -14,6 +14,8 @@ import android.view.ViewGroup;
 import android.view.ViewTreeObserver;
 import android.widget.Button;
 import android.widget.PopupWindow;
+
+import popup.popfisher.com.smartpopupwindow.R;
 
 public class ScreenChangeUpdatePopupActivity extends Activity {
     private Button mAnchorBtn;

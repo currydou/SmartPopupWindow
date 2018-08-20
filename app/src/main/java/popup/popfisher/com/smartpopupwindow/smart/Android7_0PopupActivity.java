@@ -1,4 +1,4 @@
-package popup.popfisher.com.smartpopupwindow;
+package popup.popfisher.com.smartpopupwindow.smart;
 
 import android.app.Activity;
 import android.content.Context;
@@ -8,7 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.PopupWindow;
-import android.widget.Toast;
+
+import popup.popfisher.com.smartpopupwindow.R;
 
 /**
  * 此Activity专门演示PopupWindow在android7.0系统的是兼容情况

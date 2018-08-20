@@ -6,7 +6,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="popup.popfisher.com.smartpopupwindow.PopupWindowMainActivity">
+    tools:context="popup.popfisher.com.smartpopupwindow.smart.PopupWindowMainActivity">
     <!-- 这个ListView的显示隐藏直接影响到PopupWindow在屏幕旋转的时候update方法是否生效 -->
     <ListView
         android:id="@+id/listview"

@@ -7,7 +7,7 @@
     android:background="@android:color/white"
     android:orientation="vertical"
     android:padding="15dp"
-    tools:context="popup.popfisher.com.smartpopupwindow.PopupWindowMainActivity">
+    tools:context="popup.popfisher.com.smartpopupwindow.smart.PopupWindowMainActivity">
 
     <TextView
         android:layout_width="wrap_content"

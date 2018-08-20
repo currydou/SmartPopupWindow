@@ -9,7 +9,7 @@
     android:orientation="vertical"
     android:paddingLeft="15dp"
     android:paddingRight="15dp"
-    tools:context="popup.popfisher.com.smartpopupwindow.PopupWindowMainActivity">
+    tools:context="popup.popfisher.com.smartpopupwindow.smart.PopupWindowMainActivity">
 
     <Button
         android:id="@+id/buttion1"

@@ -1,4 +1,4 @@
-package popup.popfisher.com.smartpopupwindow;
+package popup.popfisher.com.smartpopupwindow.smart;
 
 import android.app.Activity;
 import android.graphics.drawable.ColorDrawable;
@@ -10,9 +10,10 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.PopupWindow;
-import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import popup.popfisher.com.smartpopupwindow.R;
 
 public class CustomPosPopupActivity extends Activity {
 

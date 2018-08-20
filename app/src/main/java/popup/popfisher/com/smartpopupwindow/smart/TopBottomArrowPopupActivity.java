@@ -1,4 +1,4 @@
-package popup.popfisher.com.smartpopupwindow;
+package popup.popfisher.com.smartpopupwindow.smart;
 
 import android.app.Activity;
 import android.graphics.drawable.ColorDrawable;
@@ -10,6 +10,8 @@ import android.view.ViewTreeObserver;
 import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
+
+import popup.popfisher.com.smartpopupwindow.R;
 
 public class TopBottomArrowPopupActivity extends Activity implements View.OnClickListener {
 
